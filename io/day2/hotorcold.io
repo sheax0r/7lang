@@ -4,7 +4,6 @@ Range
 
 # Generate a random number
 number := (Random value(99) +1) floor()
-number println
 
 # Ask the user to guess the number 10x.
 success := false
